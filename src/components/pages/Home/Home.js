@@ -1,5 +1,5 @@
-import Header from "../../shared/Header";
+import SiteHeader from "../../shared/SiteHeader";
 
-const Home = () => <Header />;
+const Home = () => <SiteHeader />;
 
 export default Home;
