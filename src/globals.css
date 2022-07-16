@@ -1,0 +1,32 @@
+:root {
+  --heading-1: 36px;
+  --heading-2: 24px;
+  --heading-3: 18px;
+
+  --font-size-large: 16px;
+  --font-size-medium: 14px;
+  --font-size-small: 12px;
+
+  --color-white: #fafafa;
+  --color-dark: #161616;
+  --color-primary: #5602ee;
+  --color-error: #ff0138;
+  --color-success: #19dc7a;
+  --color-gray: #414141;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  background-color: var(--color-dark);
+  background-image: url("/assets/images/background.svg");
+}
+
+* {
+  box-sizing: border-box;
+}
