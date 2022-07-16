@@ -1,0 +1,8 @@
+.Fixed {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.Fluid {
+  width: 100%;
+}
