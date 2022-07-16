@@ -9,7 +9,7 @@ module.exports = {
     "plugin:react/jsx-runtime",
     "standard",
     "prettier",
-    "next",
+    "next/core-web-vitals",
   ],
   parserOptions: {
     ecmaFeatures: {
